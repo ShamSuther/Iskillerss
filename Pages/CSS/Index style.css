@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./Lato/Lato-Regular.ttf);
+}
+body{
+    background-color: #fae6ff;
+    font-family: 'Lato', sans-serif;
+    line-height: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+#header{
+    position: fixed;
+    top:0px;
+    padding: 5px;
+}
+.one{
+    background-color: #800080;
+    height: 100px;
+}
+#h1br{
+    padding-top: 100px;
+    color: #9564ab;
+    line-height: 25px;
+}
+#available{
+    font-size: 50px;
+    color: white;
+    padding: 30px;
+}
+.two{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+#class{
+    padding-bottom: 50px;
+    
+}
+.welcome{
+    vertical-align: top;
+    text-align: justify;
+}
+.four{
+    vertical-align: top;
+    text-align: justify;
+}
+#four{
+    vertical-align: top;
+}
+.one1{
+    background-color: #800080;
+    color: white;
+}
+#copyright{
+    background-color: #4a3193;
+}
+a:link{
+    color: white;
+}
+:visited{
+    color: white;
+}
+button{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    background-color: #800080;
+    border-radius: 10px;
+}
+button:hover{
+    color: white;
+    background-color: #4a3193;
+}
+#tra{
+    margin: 20px;
+}
+#WELL{
+    padding: 20px;
+}
+#title2{
+    margin: 20px;
+}
+.ThisIsAbout{
+    padding-top: 100px;
+}
+#color24{
+    padding-top: 50px;
+    color: #513b90;
+}
+#info{
+    color: black;
+}
